@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933581016191",
+    "project_id": "storedatarealtime-7fb59",
+    "storage_bucket": "storedatarealtime-7fb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933581016191:android:33a0f658034bd253d4c34a",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vxdYkbob7zY5iboExwznTTyGAGhL1Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
